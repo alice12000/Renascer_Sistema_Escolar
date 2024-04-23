@@ -1,0 +1,59 @@
+﻿<Window x:Class="Sistema_Renascer.telas.Consulta_Turma"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sistema_Renascer.telas"
+        mc:Ignorable="d" WindowStartupLocation="CenterScreen"
+        Title="Consulta_Turma" Height="450" Width="800">
+    <Grid>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Grid Grid.Column ="0" Background="#052D44">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Image Grid.Row="1" Source="/imagens/icon_school.png" Width="30" Height="30" Margin="10,15,114,114"/>
+            <Label Grid.Row="1" Content="Sistema" FontFamily="Numans" FontSize="12" Foreground="White" Margin="36,10,-8,36"/>
+            <Label Grid.Row="1" Content="Renascer" FontFamily="Numans" FontSize="12" Foreground="White" Margin="37,27,-9,19" />
+            <Button Grid.Row="1" Content="Dashboard" Background="Transparent" Foreground="White" Margin="10,120,0,0" HorizontalAlignment="Left" BorderThickness="0" FontFamily="Numans" FontSize="14"  Click="Button_Click" ></Button>
+            <Button Grid.Row="2" Content="Alunos" Background="Transparent" Foreground="White" Margin="10,10,0,10" HorizontalAlignment="Left"  BorderThickness="0"  FontFamily="Numans" FontSize="14" Click="Button_Click_1"></Button>
+            <Button Grid.Row="3" Content="Turmas" Background="Transparent" Foreground="White" Margin="10,10,0,10" HorizontalAlignment="Left" BorderThickness="0" FontFamily="Numans" FontSize="14" Click="Button_Click_2"></Button>
+            <Button Grid.Row="4" Content="Cursos" Background="Transparent" Foreground="White" Margin="10,10,0,10" HorizontalAlignment="Left" BorderThickness="0" FontFamily="Numans" FontSize="14" Click="Button_Click_3"></Button>
+            <Button Grid.Row="5" Content="Escolas" Background="Transparent" Foreground="White" Margin="10,10,0,10" HorizontalAlignment="Left" BorderThickness="0"  FontFamily="Numans" FontSize="14" Click="Button_Click_4"></Button>
+            <Button Grid.Row="6" Content="Exit" Background="Transparent" Foreground="White" Margin="10,53,0,-53" HorizontalAlignment="Left" BorderThickness="0" FontFamily="Numans" FontSize="14" Click="Button_Click_6"></Button>
+        </Grid>
+
+        <Grid Grid.Column="1" Margin="31,53,30,10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+
+            <Label Grid.Row="0" Content="Consulta de Turmas" Margin="0,10,10,20" FontSize="24" FontFamily="Numans"/>
+            <DataGrid Grid.Row="1" x:Name="data_grid_turma" Margin="0,10,10,20">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Sigla" Width="130"/>
+                    <DataGridTextColumn Header="Ano"  Width="130"/>
+                    <DataGridTextColumn Header="Qtde de vagas" Width="180"/>
+                    <DataGridTextColumn Header="Situação" Width="150"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+
+    </Grid>
+</Window>
