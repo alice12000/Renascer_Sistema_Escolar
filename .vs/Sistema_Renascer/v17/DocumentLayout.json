@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\consulta_aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\consulta_aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\consulta_aluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\consulta_aluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|c:\\users\\alice\\source\\repos\\sistema_renascer\\telas\\aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\aluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\aluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\turma.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\aluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\aluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\curso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -62,10 +70,6 @@
       "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\consulta_curso.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\consulta_aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\consulta_aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\cadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\cadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -84,10 +88,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\consulta_aluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\consulta_aluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\geral\\daohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,45 +113,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Escola.xaml",
-              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Escola.xaml",
-              "RelativeDocumentMoniker": "telas\\Escola.xaml",
-              "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Escola.xaml",
-              "RelativeToolTip": "telas\\Escola.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-11T18:29:51.328Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Turma.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Turma.xaml.cs",
-              "RelativeDocumentMoniker": "telas\\Turma.xaml.cs",
-              "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Turma.xaml.cs",
-              "RelativeToolTip": "telas\\Turma.xaml.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAAABMAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T19:54:22.409Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Turma.xaml",
-              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Turma.xaml",
-              "RelativeDocumentMoniker": "telas\\Turma.xaml",
-              "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Turma.xaml",
-              "RelativeToolTip": "telas\\Turma.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-12T19:53:28.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Consulta_Turma.xaml",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Turma.xaml",
               "RelativeDocumentMoniker": "telas\\Consulta_Turma.xaml",
@@ -162,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Aluno.xaml",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Aluno.xaml",
               "RelativeDocumentMoniker": "telas\\Aluno.xaml",
@@ -174,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Curso.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Curso.xaml.cs",
               "RelativeDocumentMoniker": "telas\\Curso.xaml.cs",
@@ -186,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Login.xaml",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Login.xaml",
               "RelativeDocumentMoniker": "telas\\Login.xaml",
@@ -197,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Curso.xaml",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Curso.xaml",
               "RelativeDocumentMoniker": "telas\\Curso.xaml",
@@ -208,19 +174,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Aluno.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Aluno.xaml.cs",
               "RelativeDocumentMoniker": "telas\\Aluno.xaml.cs",
               "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Aluno.xaml.cs",
               "RelativeToolTip": "telas\\Aluno.xaml.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAkwDgAAAAJAAAA",
+              "ViewState": "AQIAAGEAAAAAAAAAAADgv28AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:34:42.832Z"
+              "WhenOpened": "2024-04-11T18:34:42.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consulta_Aluno.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Aluno.xaml.cs",
+              "RelativeDocumentMoniker": "telas\\Consulta_Aluno.xaml.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Aluno.xaml.cs",
+              "RelativeToolTip": "telas\\Consulta_Aluno.xaml.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAUwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:47:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consulta_Aluno.xaml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Aluno.xaml",
+              "RelativeDocumentMoniker": "telas\\Consulta_Aluno.xaml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Aluno.xaml",
+              "RelativeToolTip": "telas\\Consulta_Aluno.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T18:38:21.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Turma.xaml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Turma.xaml",
+              "RelativeDocumentMoniker": "telas\\Turma.xaml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Turma.xaml",
+              "RelativeToolTip": "telas\\Turma.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-12T19:53:28.262Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "Escola.xaml",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Escola.xaml",
+              "RelativeDocumentMoniker": "telas\\Escola.xaml",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Escola.xaml",
+              "RelativeToolTip": "telas\\Escola.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-11T18:29:51.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Sistema_Renascer",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\Sistema_Renascer.csproj",
               "RelativeDocumentMoniker": "Sistema_Renascer.csproj",
@@ -231,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Escola.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Escola.xaml.cs",
               "RelativeDocumentMoniker": "telas\\Escola.xaml.cs",
@@ -243,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Dashboard.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Dashboard.xaml.cs",
               "RelativeDocumentMoniker": "telas\\Dashboard.xaml.cs",
@@ -255,7 +269,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Dashboard.xaml",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Dashboard.xaml",
               "RelativeDocumentMoniker": "telas\\Dashboard.xaml",
@@ -266,18 +280,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Consulta_Aluno.xaml",
-              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Aluno.xaml",
-              "RelativeDocumentMoniker": "telas\\Consulta_Aluno.xaml",
-              "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Aluno.xaml",
-              "RelativeToolTip": "telas\\Consulta_Aluno.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-11T18:38:21.738Z"
+              "DocumentIndex": 5,
+              "Title": "Turma.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Turma.xaml.cs",
+              "RelativeDocumentMoniker": "telas\\Turma.xaml.cs",
+              "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Turma.xaml.cs",
+              "RelativeToolTip": "telas\\Turma.xaml.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T19:54:22.409Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Cadastro.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Cadastro.xaml.cs",
               "RelativeDocumentMoniker": "telas\\Cadastro.xaml.cs",
@@ -289,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Cadastro.xaml",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Cadastro.xaml",
               "RelativeDocumentMoniker": "telas\\Cadastro.xaml",
@@ -300,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Login.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Login.xaml.cs",
               "RelativeDocumentMoniker": "telas\\Login.xaml.cs",
@@ -312,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Consulta_Escola.xaml",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Escola.xaml",
               "RelativeDocumentMoniker": "telas\\Consulta_Escola.xaml",
@@ -323,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Consulta_Curso.xaml",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Curso.xaml",
               "RelativeDocumentMoniker": "telas\\Consulta_Curso.xaml",
@@ -334,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Consulta_Escola.xaml.cs",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Escola.xaml.cs",
               "RelativeDocumentMoniker": "telas\\Consulta_Escola.xaml.cs",
@@ -346,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -391,18 +406,6 @@
               "ViewState": "AQIAAAUAAAAAAAAAAAAAwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-12T14:49:30.274Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Consulta_Aluno.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Aluno.xaml.cs",
-              "RelativeDocumentMoniker": "telas\\Consulta_Aluno.xaml.cs",
-              "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Consulta_Aluno.xaml.cs",
-              "RelativeToolTip": "telas\\Consulta_Aluno.xaml.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAUwDgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:47:52.392Z"
             },
             {
               "$type": "Document",
