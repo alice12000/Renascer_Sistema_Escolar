@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\consulta_aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|c:\\users\\alice\\source\\repos\\sistema_renascer\\telas\\consulta_aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\consulta_aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\consulta_aluno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|c:\\users\\alice\\source\\repos\\sistema_renascer\\telas\\aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{7D3920D5-0482-4833-9EBE-104A4A6A7E9F}|Sistema_Renascer.csproj|solutionrelative:telas\\aluno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -135,8 +135,7 @@
               "ToolTip": "C:\\Users\\alice\\source\\repos\\Sistema_Renascer\\telas\\Aluno.xaml",
               "RelativeToolTip": "telas\\Aluno.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-11T18:28:53.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T18:28:53.828Z"
             },
             {
               "$type": "Document",
@@ -182,8 +181,7 @@
               "RelativeToolTip": "telas\\Aluno.xaml.cs",
               "ViewState": "AQIAAGEAAAAAAAAAAADgv28AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T18:34:42.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T18:34:42.832Z"
             },
             {
               "$type": "Document",
@@ -195,8 +193,7 @@
               "RelativeToolTip": "telas\\Consulta_Aluno.xaml.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAUwDgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T14:47:52.392Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-12T14:47:52.392Z"
             },
             {
               "$type": "Document",
